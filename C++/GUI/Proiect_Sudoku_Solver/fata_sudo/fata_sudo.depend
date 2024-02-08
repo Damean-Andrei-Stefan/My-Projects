@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649418348 source:d:\info c\fata_sudo\main.cpp
+	<Windows.h>
+	<iostream>
+	<cstdlib>
+	<time.h>
+

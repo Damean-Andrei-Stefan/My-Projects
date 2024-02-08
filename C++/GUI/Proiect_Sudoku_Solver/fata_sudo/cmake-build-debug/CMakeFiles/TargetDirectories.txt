@@ -1,0 +1,3 @@
+D:/info c/fata_sudo/cmake-build-debug/CMakeFiles/fata_sudo.dir
+D:/info c/fata_sudo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/info c/fata_sudo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
